@@ -8,3 +8,6 @@ h1 <yo>
   
   
   (This was 100% made due to a school assignment)
+
+
+My current mission is to write HIRE ME in the github commit history. This is expected to take approximately 30 weeks. Fortunately my vacation week coincides with the space after 'H'.
